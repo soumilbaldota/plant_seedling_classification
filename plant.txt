@@ -1,0 +1,11 @@
+- remove the non indian inputs (train)
+- include some other indian based species scraping google. (diff sizes - preprocess to fit size)
+- normalize the resolution
+- find the accuracy on the curated dataset
+- comparison study on the indian and non indian based images
+- share the kaggle link (for literature survey)
+- go through abstract and proposed work in the papers listed in references.
+- Abstract - what is the topic (intro - 2lines)
+- Drawbacks or gaps not yet covered (3 lines)
+- proposed work (used CNN) - 3 lines
+- Results in 3 lines (in terms on percentage)
